@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.schaffensofts.com" target="_blank"><img src="https://i.postimg.cc/ZRBk4xZs/logo.png" title="Schaffen Softwares" alt="Schaffen Softwares"></a>
 </p>
 
-# Inkpool Website
+# Inkpool App
 
 > The Official Android Application for our Informal Writer's Event, Inkpool.
 > This Application was the main platform which contains all the infomation about the event as well as where all the participants have to submit there submission details. Other than this, The Application contains all the information of the participants.
